@@ -5,6 +5,8 @@ to save > git commiit -m "It's a new day"
 
 to get out ^:q 
 
+to check all changes use > git log
+
 Anything
 something else
 Niaje sasa
