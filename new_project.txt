@@ -3,6 +3,8 @@ Ensure you are in the right folder where the initial respository instance is
 
 to save > git commiit -m "It's a new day"
 
+to get out ^:q 
+
 Anything
 something else
 Niaje sasa
