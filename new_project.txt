@@ -1,6 +1,8 @@
 If you want to open a new GIT instance, you first start with > git init
 Ensure you are in the right folder where the initial respository instance is
 
+to save > git commiit -m "It's a new day"
+
 Anything
 something else
 Niaje sasa
